@@ -2,7 +2,7 @@
 
 To run the streamlit app file run in the command terminal: `streamlit run streamlit-langchain-app.py`
 
-Once the app file opens up in the browser window, upload the text file present in `docs/dark-knight-plot.txt`.
+Once the app file opens up in the browser window, uplaod the text file present in `docs/dark-knight-plot.txt`.
 It takes 4-5 mins for the text file to be uploaded in the localhost server.
 
 Ask questions related to Dark Knight movie : Example - Whose face was burned ?
