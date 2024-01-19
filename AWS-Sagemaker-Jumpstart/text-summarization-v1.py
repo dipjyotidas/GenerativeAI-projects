@@ -3,6 +3,12 @@
 
 # #### Document summarization application Falcon LLM using Sagemaker Jumpstart
 
+### Author : Dipjyoti Das
+### Last Edited : Jan 19, 2024
+
+### This script provides an example for how to use Sagemaker Jumpstart -for text summarization use case. It used Falcon 7B open source model 
+### from Jumsptart model hub with Langchain.
+
 # #### Prerequisites
 
 #### AWS Innovation Sandbox should be installed and Domain created in Sagemaker
@@ -41,6 +47,7 @@ warnings.filterwarnings('ignore')
 
 newline, bold, unbold = '\n', '\033[1m', '\033[0m'
 
+# get the endpoint after the model is deployed in Jumpstart
 endpoint_name ='hf-llm-falcon-7b-instruct-bf16-2024-01-19-14-57-58-026'
 
 def query_endpoint(payload):
