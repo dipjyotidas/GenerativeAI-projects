@@ -1,0 +1,38 @@
+Broker Price Opinion (BPO) Summary Report
+-----------------------------------------
+
+Subject Property:
+123 ABC Road, Kings Mountain, NC 28086
+Single-Family Detached (Split Entry)
+Year Built: 1977 | Living Area: 2,823 sq.ft. | Lot Size: 0.50 acres
+Bedrooms: 5 | Bathrooms: 3 | Condition: C3 (Average, well maintained)
+
+Occupancy: Occupied | View: Neighborhood | Secured: Yes
+
+Broker Opinion of Value (As-Is):
+- As-Is Sale Price: $185,000
+- As-Is List Price: $195,000
+- Quick Sale Price: $175,000
+- Repair Estimate: $0
+- Marketing Time: 1–60 Days
+
+Neighborhood & Market:
+- Stable suburban area with 85% owner occupancy
+- Low crime risk and good access to schools and amenities
+- Typical marketing time under 60 days; balanced supply and demand
+
+Comparables Summary:
+Sold Comp 1: 2,560 sf | Built 2007 | Sold $199,000 | 0.53 mi
+Sold Comp 2: 2,072 sf | Built 1972 | Sold $156,000 | 1.23 mi
+Sold Comp 3: 2,117 sf | Built 1972 | Sold $174,250 | 1.17 mi
+Listed Comp 1: 2,110 sf | Built 1959 | List $189,900 | 4.03 mi
+Listed Comp 2: 2,231 sf | Built 1950 | List $229,000 | 4.43 mi
+Listed Comp 3: 1,994 sf | Built 1975 | List $168,250 | 4.46 mi
+
+Analysis:
+Comparable sales bracket subject well; market supports $185,000 as-is.
+No external obsolescence or deferred maintenance noted.
+Neighborhood is well-established and market trend stable.
+
+Broker: ABC Broker | Red Bell Real Estate LLC
+Inspection Date: 12/04/2019 | Completion Date: 12/05/2019

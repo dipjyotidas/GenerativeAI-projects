@@ -1,0 +1,133 @@
+{
+  "property": {
+    "address": "123 ABC Road, Kings Mountain, NC 28086",
+    "type": "Single Family Detached (Split Entry)",
+    "year_built": 1977,
+    "condition": "C3",
+    "lot_size_acres": 0.5,
+    "living_area_sqft": 2823,
+    "rooms": 10,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "assessor_parcel_number": "11157",
+    "occupancy": "Occupied",
+    "view": "Neighborhood",
+    "secured": true
+  },
+  "valuation": {
+    "as_is_sale_price": 185000,
+    "as_is_list_price": 195000,
+    "quick_sale_price": 175000,
+    "repaired_sale_price": 185000,
+    "repaired_list_price": 195000,
+    "repaired_quick_sale_price": 175000,
+    "repair_estimate": 0,
+    "typical_marketing_time_days": "1-60",
+    "market_rent": 1300,
+    "land_value": 11550
+  },
+  "neighborhood": {
+    "density": "Suburban",
+    "trend": "Stable",
+    "crime_risk": "Low",
+    "environmental_issues": "No",
+    "owner_occupied_percent": 85,
+    "values_trend": "Stable",
+    "supply": "Stable",
+    "demand": "Stable",
+    "competing_listings": 12,
+    "value_range": [124800, 274800],
+    "comps_for_sale": 10,
+    "boarded_properties": 0
+  },
+  "comparables": {
+    "sold": [
+      {
+        "id": 1,
+        "address": "Sample Comp Address",
+        "distance_miles": 0.53,
+        "year_built": 2007,
+        "sqft": 2560,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "garage": "2-car garage",
+        "sold_price": 199000,
+        "sale_date": "2019-08-08",
+        "condition": "C2"
+      },
+      {
+        "id": 2,
+        "address": "Sample Comp Address",
+        "distance_miles": 1.23,
+        "year_built": 1972,
+        "sqft": 2072,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "garage": "None",
+        "sold_price": 156000,
+        "sale_date": "2019-06-11",
+        "condition": "C3"
+      },
+      {
+        "id": 3,
+        "address": "Sample Comp Address",
+        "distance_miles": 1.17,
+        "year_built": 1972,
+        "sqft": 2117,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "garage": "None",
+        "sold_price": 174250,
+        "sale_date": "2019-05-24",
+        "condition": "C3"
+      }
+    ],
+    "listed": [
+      {
+        "id": 1,
+        "address": "Sample Comp Address",
+        "distance_miles": 4.03,
+        "year_built": 1959,
+        "sqft": 2110,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "list_price": 189900,
+        "condition": "C3"
+      },
+      {
+        "id": 2,
+        "address": "Sample Comp Address",
+        "distance_miles": 4.43,
+        "year_built": 1950,
+        "sqft": 2231,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "list_price": 229000,
+        "condition": "C3"
+      },
+      {
+        "id": 3,
+        "address": "Sample Comp Address",
+        "distance_miles": 4.46,
+        "year_built": 1975,
+        "sqft": 1994,
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "list_price": 168250,
+        "condition": "C5"
+      }
+    ]
+  },
+  "analysis": {
+    "pricing_strategy": "Comps selected outside 1-mile radius due to limited supply; condition and GLA not bracketed; stable market supports $185,000 as-is.",
+    "qc_review": "As-is price is bracketed and supported by sold comps; no negative influences; subject photos verified on site.",
+    "subject_comments": "Property conforms to neighborhood; proximity to amenities and public services; no adverse site or environmental factors.",
+    "neighborhood_comments": "Well-established, stable area with consistent values, stable employment, and low REO activity."
+  },
+  "broker": {
+    "name": "ABC Broker",
+    "company": "Red Bell Real Estate LLC",
+    "inspection_date": "2019-12-04",
+    "completion_date": "2019-12-05"
+  }
+}

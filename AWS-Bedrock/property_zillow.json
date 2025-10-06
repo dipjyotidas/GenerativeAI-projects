@@ -1,0 +1,32 @@
+{
+  "address": "135 Hazelnut Ln, Cullowhee, NC 28723",
+  "city": "Cullowhee",
+  "state": "NC",
+  "zip_code": "28723",
+  "county": "Jackson County",
+  "zpid": "84692350",
+  "listing_status": "Foreclosure",
+  "mls_number": "26040798",
+  "property_type": "Residential - Single Family",
+  "estimated_value": 560000,
+  "price_text": "$560,000 (est.)",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "living_area_sqft": 3172,
+  "lot_size_acres": 5.15,
+  "year_built": 1970,
+  "stories": null,
+  "garage": null,
+  "exterior_features": ["Pond", "Streams"],
+  "special_features": ["Foreclosed", "3D Tour available"],
+  "market_value_estimate": 560000,
+  "listing_source": "Zillow / MLS GRID",
+  "date_retrieved": "2025-10-06",
+  "geo": {
+    "latitude": null,
+    "longitude": null
+  },
+  "urls": {
+    "zillow_listing": "https://www.zillow.com/homedetails/135-Hazelnut-Ln-Cullowhee-NC-28723/84692350_zpid/"
+  }
+}
